@@ -1,0 +1,62 @@
+<div class="card__content"><div><div class="markdownable"><p>A strong platform requires a robust community working together to  find security vulnerabilities in order to keep the network safe. </p>
+
+<h1 id="response-targets">Response Targets</h1>
+
+<p>The following represent best efforts response targets for hackers participating in this program:</p>
+
+<ul>
+<li>Time to first response (from report submit) - 15 business days</li>
+<li>Time to triage (from report submit) - 20 business days</li>
+<li>Time to bounty (from triage) - 10 business days</li>
+</ul>
+
+<p>We’ll try to keep you informed about our progress throughout the process.</p>
+
+<h1 id="program-rules">Program Rules</h1>
+
+<ul>
+<li>Please provide detailed reports with reproducible steps. If the report is not detailed enough to reproduce the issue, the issue will not be eligible for a reward.</li>
+<li>
+<strong>Reports out of scope will not be considered.</strong> Please check before submitting.</li>
+<li>Note that Celo is an open source project.</li>
+<li>Submit one vulnerability per-report, unless you need to chain vulnerabilities to provide impact.</li>
+<li>When duplicates occur, we only award the first report that was received (provided that it can be fully reproduced).</li>
+<li>Multiple vulnerabilities caused by one underlying issue will be awarded one bounty.</li>
+<li>Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service. Only interact with accounts you own or with the explicit permission of the account holder.</li>
+<li>Attacking any testnet other than the official Celo Baklava testnet (“Network”) is prohibited.</li>
+<li>Any attacks that could cause physical damage or incur costs to other’s property  is prohibited.</li>
+<li>Any attacks against Network nodes that violate <a href="https://aws.amazon.com/aup/" target="_blank" rel="nofollow noopener noreferrer"><span>Amazon Web Services Acceptable Use Policy</span><i class="icon-external-link"></i></a> and <a href="https://cloud.google.com/terms/aup" target="_blank" rel="nofollow noopener noreferrer"><span>Google Cloud Platform's Acceptable Use Policy</span><i class="icon-external-link"></i></a>  and other specific services you use is prohibited.</li>
+<li>Follow the <a href="https://celo.org/code-of-conduct" target="_blank" rel="nofollow noopener noreferrer"><span>Celo Community Code of Conduct</span><i class="icon-external-link"></i></a>.</li>
+<li>Participation is subject to the Baklava testnet <a href="https://docs.google.com/document/d/1b5SzeRbq60nx50NeezAEMpwLkaBDQ9hjZc0QAh4Mbdk/edit" target="_blank" rel="nofollow noopener noreferrer"><span>Terms &amp; Conditions</span><i class="icon-external-link"></i></a>. </li>
+</ul>
+
+<h1 id="test-plan">Test Plan</h1>
+
+<ul>
+<li>Set up a node on the network following these instructions: <a href="https://docs.celo.org/getting-started/baklava-testnet/running-a-full-node" target="_blank" rel="nofollow noopener noreferrer"><span>Getting Started - Running a Full Node</span><i class="icon-external-link"></i></a>.</li>
+<li>If you are new to blockchains and/or to Celo, take a look at the <a href="https://docs.celo.org/overview" target="_blank" rel="nofollow noopener noreferrer"><span>Celo overview</span><i class="icon-external-link"></i></a>
+</li>
+<li>Explore the code on <a href="https://github.com/celo-org" target="_blank" rel="nofollow noopener noreferrer"><span>GitHub</span><i class="icon-external-link"></i></a> - the two main repositories are <a href="https://github.com/celo-org/celo-monorepo" target="_blank" rel="nofollow noopener noreferrer"><span>celo-monorepro</span><i class="icon-external-link"></i></a> and <a href="https://github.com/celo-org/celo-blockchain" target="_blank" rel="nofollow noopener noreferrer"><span>celo-blockchain</span><i class="icon-external-link"></i></a>.</li>
+<li>You’re now set up to start looking for vulnerabilities.</li>
+<li>Have questions? Checkout the <a href="https://forum.celo.org/" target="_blank" rel="nofollow noopener noreferrer"><span>Forum</span><i class="icon-external-link"></i></a> and join the discussion on <a href="https://discord.gg/BYCJvvz" target="_blank" rel="nofollow noopener noreferrer"><span>Discord</span><i class="icon-external-link"></i></a>.</li>
+</ul>
+
+<h1 id="out-of-scope-vulnerabilities">Out of scope vulnerabilities</h1>
+
+<ul>
+<li>Previously known vulnerabilities (resolved or not) on the <a href="https://github.com/ethereum" target="_blank" rel="nofollow noopener noreferrer"><span>Ethereum</span><i class="icon-external-link"></i></a> and <a href="https://github.com/jpmorganchase/quorum" target="_blank" rel="nofollow noopener noreferrer"><span>Quorum</span><i class="icon-external-link"></i></a> networks (and any other fork of these). </li>
+<li>Missing best practices in SSL/TLS configuration.</li>
+<li>Attacks requiring physical access to a user's device.</li>
+<li>Previously known vulnerable of standard libraries used.</li>
+<li>Vulnerabilities only affecting users of outdated Celo clients or unpatched operating systems (less than 1 stable versions behind the latest released stable version).</li>
+<li>Public Zero-day vulnerabilities that have had an official patch for less than 1 month.</li>
+<li>Issues that require unlikely user interaction.</li>
+<li> Examples and tests in the code, this includes mock (i.e. not real) values. </li>
+</ul>
+
+<h1 id="safe-harbor">Safe Harbor</h1>
+
+<p>Any activities conducted in a manner consistent with this policy will be considered authorized conduct and we will not initiate legal action against you. If legal action is initiated by a third party against you in connection with activities conducted under this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.</p>
+
+<p>Thank you for helping keep the network safe!</p>
+</div></div></div>
